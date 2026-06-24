@@ -1,0 +1,22 @@
+title: GAK Creations
+description: "Modern art prints, architectural sketches, coastal artwork, and global travel-inspired collections."
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+# Navigation links
+header_pages:
+  - index.md
+  - about.md
+  - collections.md
+
+# Author info
+author:
+  name: "Gerald Allen Knowles"
+  email: "gakcreations@gmail.com"
+
+# Social links (optional for now)
+social_links:
+  instagram: https://www.instagram.com/gakcreations
+  pinterest: https://www.pinterest.com/gakcreations
