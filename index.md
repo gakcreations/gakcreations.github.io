@@ -12,6 +12,14 @@ A life shaped by France, Spain, the Bahamas, and the Canary Islands, distilled i
 ---
 
 ## ✦ Featured Collections
+### **Basilica de San Juan — Spain**  
+A historical architectural study of the Basilica de San Juan de Baños, capturing its pre‑restoration character and Romanesque structure.
+
+### **Basilica de San Juan — Spain**  
+A historical architectural study of the Basilica de San Juan de Baños, capturing its pre‑restoration character and Romanesque structure.
+
+![Basilica de San Juan — Architectural Sketch] basilica-de-san-jua..jpg
+
 
 ### **Architectural Sketches**
 Hand-drawn studies, staircases, façades, and historic forms — captured with the precision of an architect and the soul of an artist.  
