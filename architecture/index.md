@@ -16,7 +16,7 @@ These works capture the quiet geometry of staircases, cloisters, façades, and h
 
 ### **Abbaye aux Dames — Staircase Study**  
 A hand‑drawn exploration of rhythm, shadow, and ascending movement.  
-![Placeholder](https://via.placeholder.com/800x600?text=Artwork+Coming+Soon)
+framed-matte-canvas-print-vintage-abbaye-aux-dames-saintes-france-church-sketch-art.jpg
 
 ---
 
