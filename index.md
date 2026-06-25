@@ -20,6 +20,10 @@ A historical architectural study of the Basilica de San Juan de Baños, capturin
 
 ![Basilica de San Juan — Architectural Sketch] basilica-de-san-jua..jpg
 
+### **Basilica de San Juan — Spain**  
+A historical architectural study of the Basilica de San Juan de Baños, capturing its pre‑restoration character and Romanesque structure.
+
+![Basilica de San Juan — Architectural Sketch](basilica-de-san-juan.jpg)
 
 ### **Architectural Sketches**
 Hand-drawn studies, staircases, façades, and historic forms — captured with the precision of an architect and the soul of an artist.  
